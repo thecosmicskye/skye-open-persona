@@ -1,0 +1,78 @@
+license: "Open Persona License v1.0"
+license_id: "OpenPersona-1.0"
+license_text: "LICENSE.md"
+license_source_project: "https://github.com/thecosmicskye/open-persona-license"
+
+repository:
+  planned_name: "skye-open-persona"
+  planned_url: "https://github.com/thecosmicskye/skye-open-persona"
+
+attribution_name: "Skye"
+
+credit_requirements:
+  profile_hub: "https://skye.page"
+  general_credit: "Credit Skye and link https://skye.page when platform tagging is unavailable."
+  social_media_posts:
+    requirement: "If Covered Material or an Output is posted on a social media platform, tag the applicable official account for that platform where tagging is supported."
+    fallback: "If the platform does not support tagging, include: Credit: Skye - https://skye.page"
+    official_accounts:
+      - platform: "Instagram"
+        tag: "@thecosmicskye"
+        url: "https://instagram.com/thecosmicskye"
+      - platform: "Facebook"
+        tag: "@thecosmicskye"
+        url: "https://www.facebook.com/thecosmicskye/"
+      - platform: "TikTok"
+        tag: "@thecosmicskye"
+        url: "https://tiktok.com/@thecosmicskye"
+      - platform: "YouTube"
+        tag: "@thecosmicskye"
+        url: "https://www.youtube.com/@thecosmicskye"
+      - platform: "X"
+        tag: "@thecosmicskye"
+        url: "https://x.com/thecosmicskye"
+      - platform: "Suno"
+        tag: "@cosmic1"
+        url: "https://suno.com/@cosmic1"
+
+subjects:
+  - name: "Skye"
+    type: "person"
+    approved_names:
+      - "Skye"
+      - "Cosmic Skye"
+      - "The Cosmic Skye"
+      - "thecosmicskye"
+
+licensor:
+  public_name: "Skye"
+  github: "thecosmicskye"
+
+official_source_locations:
+  - "https://github.com/thecosmicskye/skye-open-persona"
+
+official_notice_channels:
+  - "https://github.com/thecosmicskye/skye-open-persona"
+
+covered_material:
+  - "source_media/images/**"
+  - "source_media/videos/**"
+  - "source_media/audio/**"
+
+known_likeness_locations:
+  - type: "elevenlabs_voice_share"
+    url: "https://elevenlabs.io/app/voice-lab/share/3a1fe05dcd74f48e657fe526b4328c5acdc3a12236e835c49bab36444df920dc/1iNDh1muacMMMHXvS7Ym"
+    note: "Existing voice likeness location."
+  - type: "dreamina_ai_likeness"
+    url: "https://dreamina.capcut.com/sv2/ZS9FDTpNt/"
+    note: "Existing AI likeness location."
+
+source_credits:
+  - path: "source_media/videos/skye-video-reference-002-miles.mp4"
+    credit: "Miles"
+    url: "https://github.com/linkinpark9812"
+    note: "Source video credit."
+  - path: "source_media/videos/skye-video-reference-003-miles-1080p.mp4"
+    credit: "Miles"
+    url: "https://github.com/linkinpark9812"
+    note: "Source video credit."
