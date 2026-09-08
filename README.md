@@ -32,7 +32,7 @@ These links are provided as references to existing likeness locations.
 - `source_media/videos/` - video reference clips prefixed with `skye-video-reference-###`
 - `source_media/audio/` - voice reference recordings named `skye-voice-reference-###.mp3`
 
-Current package contents: 13 visual reference images, 5 video reference clips, and 7 voice reference recordings.
+Current package contents: 13 visual reference images, 6 video reference clips, and 7 voice reference recordings.
 
 ## Source credits
 
